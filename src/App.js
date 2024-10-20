@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <h1>"{advice}"</h1>
       <button onClick={getadvice}>Get Advice</button>
-      <h3><a href='https://yogeeswaran-m.vercel.app/'>Developed by Yogeeswaran M</a> </h3>
+      <p><a href='https://yogeeswaran-m.vercel.app/'>Developed by Yogeeswaran M</a> </p>
     </div>
   );
 }
